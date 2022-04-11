@@ -1,0 +1,12 @@
+
+Name: Ankit 
+Marks=23 
+
+Name: Nitin 
+Marks=99 
+
+Name: Sachin 
+Marks=12 
+
+Name: Shivaayi 
+Marks=7 
